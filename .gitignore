@@ -1,0 +1,20 @@
+# Базы 1С
+*.1CD
+*.1CL
+*.log
+*.pf
+*.pfl
+
+# Собранные артефакты 1С (собираем по команде, не храним в git по умолчанию)
+release/cf/*.cf
+release/cfe/*.cfe
+release/epf/*.epf
+release/erf/*.erf
+
+# Внешние артефакты
+*.dt
+
+# Системное
+.DS_Store
+Thumbs.db
+*.tmp
