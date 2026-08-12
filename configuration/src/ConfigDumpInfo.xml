@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.21">
+	<ConfigVersions>
+		<Metadata name="Catalog.Контрагенты" id="40b09f2d-4f0d-47d4-b6b8-cbf93082b75b" configVersion="846cd2533713b04f98380f5333f04dcf00000000">
+			<Metadata name="Catalog.Контрагенты.Attribute.ИНН" id="0a712eb1-d0cb-4445-bd27-04741a29da59"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.Комментарий" id="6807f70e-03e5-420c-9b46-edaa9b3892d0"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.КПП" id="f83d8380-cdcd-4afb-b3aa-c5747cf07677"/>
+		</Metadata>
+		<Metadata name="Catalog.Номенклатура" id="a57d946a-d97b-400a-ad94-b2e01dc3d3a0" configVersion="431f1f49e7a1b349bae43c02652cf81b00000000">
+			<Metadata name="Catalog.Номенклатура.Attribute.ЕИ" id="e9ce1264-752d-4fb7-ad28-f0c79983febf"/>
+		</Metadata>
+		<Metadata name="CommonModule.КалькуляторКлиентСервер" id="5cc66fb6-c10e-48fc-bab0-40d0590c51fe" configVersion="7d27f350d904434588c9a2177d8134ac00000000"/>
+		<Metadata name="CommonModule.КалькуляторКлиентСервер.Module" id="5cc66fb6-c10e-48fc-bab0-40d0590c51fe.0" configVersion="0695263b5106d24081c4379e0c76572c00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="ff1236a3-d0c4-453e-bcc9-526ec5cac24b" configVersion="4f8db1a6dda8354c9aa1a83b80803bc000000000"/>
+		<Metadata name="Document.ПриходТоваров" id="64ccc1e3-a01b-4124-8abf-854fb165d24c" configVersion="8911dc471c21a44192ff9b41f836a67300000000">
+			<Metadata name="Document.ПриходТоваров.TabularSection.Товары.Attribute.Сумма" id="07eac8c3-5591-4ff3-bd4d-d416325dc7ab"/>
+			<Metadata name="Document.ПриходТоваров.TabularSection.Товары" id="2694fbe9-6809-4961-86f0-2926b6640d28"/>
+			<Metadata name="Document.ПриходТоваров.TabularSection.Товары.Attribute.Цена" id="27b64eea-f80b-4be2-9f85-d2a516a01d32"/>
+			<Metadata name="Document.ПриходТоваров.TabularSection.Товары.Attribute.Комментарий" id="2915d355-f7d4-4e5a-9929-07d5f38a7a0b"/>
+			<Metadata name="Document.ПриходТоваров.Attribute.СуммаДокумента" id="53384319-51ca-4c71-847c-6a706f06053d"/>
+			<Metadata name="Document.ПриходТоваров.Attribute.Комментарий" id="5d0e754a-c06d-4a4a-bc3a-657701dfa18c"/>
+			<Metadata name="Document.ПриходТоваров.Attribute.Контрагент" id="69912722-98a9-459d-a25d-bc2a65ec6e39"/>
+			<Metadata name="Document.ПриходТоваров.TabularSection.Товары.Attribute.Количество" id="6b57017a-1670-4a12-981e-50390e45c981"/>
+			<Metadata name="Document.ПриходТоваров.Attribute.КоличествоПозицийНоменклатуры" id="92a70613-3ecc-4a39-9afe-1723e9ec10b8"/>
+			<Metadata name="Document.ПриходТоваров.TabularSection.Товары.Attribute.Проверено" id="94b65947-94ee-4613-949b-a73e48cc0b81"/>
+			<Metadata name="Document.ПриходТоваров.TabularSection.Товары.Attribute.Номенклатура" id="baa262eb-00b6-4fed-9727-31ba1d4da85b"/>
+		</Metadata>
+		<Metadata name="Document.РасходТоваров" id="a9b461f8-f2ee-4cf1-8f2f-6fee15422c66" configVersion="52915eb23dd26844b6dcf8c7a69e4fab00000000">
+			<Metadata name="Document.РасходТоваров.Attribute.СуммаДокумента" id="05cbe025-f7cd-4486-b4e7-19aedc3a91bc"/>
+			<Metadata name="Document.РасходТоваров.TabularSection.Товары.Attribute.Сумма" id="207a0c5f-bb2e-491d-afc3-f848ebbc950e"/>
+			<Metadata name="Document.РасходТоваров.TabularSection.Товары" id="21b9012e-ba72-460c-9cc0-4e3d0e0d8b15"/>
+			<Metadata name="Document.РасходТоваров.Attribute.Контрагент" id="3f03e97c-d45a-4ff0-826b-6529732c6759"/>
+			<Metadata name="Document.РасходТоваров.TabularSection.Товары.Attribute.Комментарий" id="4a1190a8-af11-4c8b-a90d-dd9b486917ad"/>
+			<Metadata name="Document.РасходТоваров.TabularSection.Товары.Attribute.Количество" id="6825aa66-079e-4acc-be0e-c769cc657540"/>
+			<Metadata name="Document.РасходТоваров.Attribute.КоличествоПозицийНоменклатуры" id="6915f57b-afd2-45fa-819f-71deb026bb2b"/>
+			<Metadata name="Document.РасходТоваров.TabularSection.Товары.Attribute.Цена" id="a2075426-952c-412e-bd7f-bd31c2688be6"/>
+			<Metadata name="Document.РасходТоваров.TabularSection.Товары.Attribute.Номенклатура" id="bc94b33f-3012-4161-aa30-0f86c6c1f850"/>
+			<Metadata name="Document.РасходТоваров.TabularSection.Товары.Attribute.Проверено" id="db4e669a-ae2d-430b-a64f-600a5d84b99f"/>
+			<Metadata name="Document.РасходТоваров.Attribute.Комментарий" id="f318a5e9-2b7c-4b44-a3d9-3e1db792c302"/>
+		</Metadata>
+		<Metadata name="Document.РасходТоваров.AdditionalIndexes" id="a9b461f8-f2ee-4cf1-8f2f-6fee15422c66.3" configVersion="f3924676fe126e43894dc666e87ff35800000000"/>
+		<Metadata name="Document.РасходТоваров.Help" id="a9b461f8-f2ee-4cf1-8f2f-6fee15422c66.1" configVersion="901a709b2ce0a44494724d7630a703cb00000000"/>
+		<Metadata name="Document.РасходТоваров.ManagerModule" id="a9b461f8-f2ee-4cf1-8f2f-6fee15422c66.2" configVersion="6184776c9ed5844db5a95c228c28459000000000"/>
+		<Metadata name="Document.РасходТоваров.ObjectModule" id="a9b461f8-f2ee-4cf1-8f2f-6fee15422c66.0" configVersion="41a8a2b9e449fb40877e1d3c86a8a54900000000"/>
+		<Metadata name="Language.Русский" id="0fba4b4b-7c83-455b-96fd-f1c356728ee0" configVersion="f597f8ad3733d74cb6342ce4ff412cc800000000"/>
+		<Metadata name="Role.ПолныеПрава" id="a35a9124-37a4-4ecf-a7ef-3f03eead3ad3" configVersion="1f50b3ef66d70648ae3516e01e8ba08e00000000"/>
+		<Metadata name="Role.ПолныеПрава.Rights" id="a35a9124-37a4-4ecf-a7ef-3f03eead3ad3.0" configVersion="58278677a223124cb098507ec5077a4c00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
